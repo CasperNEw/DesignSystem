@@ -1,0 +1,9 @@
+{
+    "attributes": {
+        "barButtonItem": {
+            "colors": {
+                "tintColor": "BarButtonItem"
+            }
+        }
+    }
+}

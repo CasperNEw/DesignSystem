@@ -1,0 +1,9 @@
+{
+    "attributes": {
+        "rootViewController": {
+            "colors": {
+                "backgroundColor": "Background"
+            }
+        }
+    }
+}

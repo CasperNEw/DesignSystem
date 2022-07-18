@@ -1,0 +1,41 @@
+{
+    "themes": {
+        "base": {
+            "name": "Base",
+            "isDark": false,
+            "typefaces": {
+                "text-body-regular": {
+                    "textSize": "textSizeLarge",
+                    "font": "fontRegular"
+                }
+            },
+            "sizes": {
+                "textSizeLarge": 16,
+            },
+            "fonts": {
+                "fontRegular": {
+                    "family": "AppleSystemUIFont",
+                    "weight": "Regular"
+                }
+            }
+        },
+        "light": {
+            "name": "light",
+            "isDark": false,
+            "parent": "base",
+            "colors": {
+                "Background": "#FFFFFF",
+                "BarButtonItem": "#FB9130"
+            }
+        },
+        "dark": {
+            "name": "dark",
+            "isDark": true,
+            "parent": "base",
+            "colors": {
+                "Background": "#1C2026",
+                "BarButtonItem": "#60C78B"
+            }
+        }
+    }
+}
